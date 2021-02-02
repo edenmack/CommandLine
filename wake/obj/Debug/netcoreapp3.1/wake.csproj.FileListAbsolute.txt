@@ -1,0 +1,13 @@
+C:\Projects\wake\bin\Debug\netcoreapp3.1\wake.exe
+C:\Projects\wake\bin\Debug\netcoreapp3.1\wake.deps.json
+C:\Projects\wake\bin\Debug\netcoreapp3.1\wake.runtimeconfig.json
+C:\Projects\wake\bin\Debug\netcoreapp3.1\wake.runtimeconfig.dev.json
+C:\Projects\wake\bin\Debug\netcoreapp3.1\wake.dll
+C:\Projects\wake\bin\Debug\netcoreapp3.1\wake.pdb
+C:\Projects\wake\obj\Debug\netcoreapp3.1\wake.csprojAssemblyReference.cache
+C:\Projects\wake\obj\Debug\netcoreapp3.1\wake.AssemblyInfoInputs.cache
+C:\Projects\wake\obj\Debug\netcoreapp3.1\wake.AssemblyInfo.cs
+C:\Projects\wake\obj\Debug\netcoreapp3.1\wake.csproj.CoreCompileInputs.cache
+C:\Projects\wake\obj\Debug\netcoreapp3.1\wake.dll
+C:\Projects\wake\obj\Debug\netcoreapp3.1\wake.pdb
+C:\Projects\wake\obj\Debug\netcoreapp3.1\wake.genruntimeconfig.cache
